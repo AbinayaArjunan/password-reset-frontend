@@ -68,7 +68,7 @@ function Login({ url }) {
 
                                         <form onSubmit={Formik.handleSubmit}>
                                             <div className="form-outline mb-1">
-                                                <label className="form-label" htmlFor="email">
+                                                <label className="form-label fw-bold" htmlFor="email">
                                                     EmailId:
                                                 </label>
                                                 <input
@@ -84,7 +84,7 @@ function Login({ url }) {
                                             </div>
 
                                             <div className="form-outline mb-1">
-                                                <label className="form-label" htmlFor="password">
+                                                <label className="form-label fw-bold" htmlFor="password">
                                                     Password:
                                                 </label>
                                                 <input

@@ -58,7 +58,7 @@ function PasswordUpdate({ url }) {
                 <div className="card-body px-5">
                     <form onSubmit={Formik.handleSubmit}>
                         <p className="card-text py-2">
-                            Set new password
+                            Set New Password
                         </p>
                         <div className="form-outline mt-1">
                             <input type="password" className="form-control my-3"

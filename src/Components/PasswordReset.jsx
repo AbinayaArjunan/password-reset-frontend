@@ -76,7 +76,7 @@ function PasswordReset({ url }) {
                                     <button
                                         className="btn btn-outline-danger mb-3 me-5 md-col-12"
                                     >
-                                        Log in
+                                        Login
                                     </button>
                                 </Link>
                             </div>
